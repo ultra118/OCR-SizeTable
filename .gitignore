@@ -2,6 +2,9 @@
 # Created by https://www.gitignore.io/api/c,c++,java,python,windows,visualstudio,jupyternotebook
 # Edit at https://www.gitignore.io/?templates=c,c++,java,python,windows,visualstudio,jupyternotebook
 
+### dark flow ###
+darkflow/
+
 ### large file ###
 *.dat
 *.h5
