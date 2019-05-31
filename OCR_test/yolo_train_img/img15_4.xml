@@ -1,0 +1,26 @@
+﻿<annotation>
+	<folder>training_img</folder>
+	<filename>img15_4.jpg</filename>
+	<path>C:\python_ML\OCR_test\training_img\img15_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>344</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>61</ymin>
+			<xmax>714</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

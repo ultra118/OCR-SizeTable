@@ -1,0 +1,26 @@
+﻿<annotation>
+	<folder>training_img</folder>
+	<filename>im6_3.jpg</filename>
+	<path>C:\python_ML\OCR_test\training_img\im6_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>1024</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>260</ymin>
+			<xmax>749</xmax>
+			<ymax>951</ymax>
+		</bndbox>
+	</object>
+</annotation>
