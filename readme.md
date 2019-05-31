@@ -1,6 +1,6 @@
 # YOLO-v2 통한 size table detection
 
-## [Darkflow](<https://github.com/thtrieu/darkflow>) 활용해 구현
+## [Darkflow](<https://github.com/thtrieu/darkflow>) 활용
 
 - DarkNet이라는 딥러닝 프레임워크로 YOLO를 학습시키고 사용
 - 이를 Python에서 사용하기위한 DarkFlow 사용
