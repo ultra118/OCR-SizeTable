@@ -76,6 +76,8 @@ rescore=1
 
 
 
+
+
 ## Training
 
 ```bash
@@ -98,3 +100,7 @@ python flow --imgdir ../data/dataset/ --model ./cfg/size-yolo.cfg --load -1 \
 - --imgdir 뒤에는 predict하는 이미지 폴더 경로
 - --model은 사용되는 cfg의 경로
 - 아직 잘 모름 링크 참조
+
+## [YOLO weight download](<https://pjreddie.com/darknet/yolo/>)
+
+- dark flow 에서 사용되는 .cfg는 YOLOv2 608x608로 추정
