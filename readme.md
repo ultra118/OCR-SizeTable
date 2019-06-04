@@ -2,6 +2,8 @@
 
 ## [Darkflow](<https://github.com/thtrieu/darkflow>) 활용
 
+## [jupyter notebook에서 Darkflow](<https://github.com/ultra118/OCR-SizeTable/blob/master/OCR_test/YOLOv2-transfer-learning.ipynb>)
+
 - DarkNet이라는 딥러닝 프레임워크로 YOLO를 학습시키고 사용
 - 이를 Python에서 사용하기위한 DarkFlow 사용
 
@@ -73,10 +75,6 @@ softmax=1
 jitter=.3
 rescore=1
 ```
-
-
-
-
 
 ## Training
 
