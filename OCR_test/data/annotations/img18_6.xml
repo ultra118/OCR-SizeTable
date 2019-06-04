@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>img18_6.jpg</filename>
+	<path>C:\OCR-SizeTable\OCR_test\data\dataset\img18_6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>784</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>224</ymin>
+			<xmax>653</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

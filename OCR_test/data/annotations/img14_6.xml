@@ -1,7 +1,7 @@
 <annotation>
-	<folder>training_img</folder>
+	<folder>dataset</folder>
 	<filename>img14_6.jpg</filename>
-	<path>C:\python_ML\OCR_test\training_img\img14_6.jpg</path>
+	<path>C:\OCR-SizeTable\OCR_test\data\dataset\img14_6.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>1</name>
+		<name>table</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>66</xmin>
-			<ymin>480</ymin>
-			<xmax>708</xmax>
-			<ymax>590</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>0</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>194</xmin>
-			<ymin>117</ymin>
-			<xmax>519</xmax>
-			<ymax>414</ymax>
+			<xmin>73</xmin>
+			<ymin>485</ymin>
+			<xmax>706</xmax>
+			<ymax>586</ymax>
 		</bndbox>
 	</object>
 </annotation>
