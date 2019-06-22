@@ -1,0 +1,9 @@
+{% extends 'pages/base.html' %}
+
+{% block body %}
+<h1>Input Page</h1>
+    <form action="/pages/output">
+        URL 입력 : <input type="text" name="url">
+        <input type="submit">
+    </form>
+{% endblock %}

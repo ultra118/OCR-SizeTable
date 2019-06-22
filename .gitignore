@@ -5,6 +5,12 @@
 ### dark flow ###
 darkflow/
 
+
+### image file
+crawling/img/
+OCR_test/data/
+OCR_test/crawling/img
+
 ### large file ###
 *.dat
 *.h5
